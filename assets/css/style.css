@@ -1,0 +1,179 @@
+.navbar {
+  background-color: rgba(237,237,237,0.7);
+}
+
+.contact_us-header {
+  width: 100vw;
+  height: 300px;
+}
+
+.form {
+  margin-top: 100px;
+}
+
+.main-row .image-col .main-heading {
+  font-size: 1em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.main-row .image-col img {
+  width: inherit;
+  height: 270px;
+}
+
+.main-row .image-col .sub-heading {
+  font-size: 0.7em;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.contact {
+  margin-top: 10px;
+}
+
+.icon-tray-inner {
+  width: calc(100%/5);
+  margin: auto;
+}
+
+.icon-tray i {
+  font-size: 12px;
+  margin-right: 10px;
+  color: rgb(61,61,183);
+}
+
+.form-col .header {
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.form-col p {
+  position: relative;
+  top: -25px;
+  margin-bottom: 20px;
+}
+
+.detail-form .row {
+  margin-bottom: 30px;
+}
+
+.detail-form .row input, textarea {
+  padding: 7px;
+}
+
+.form-col .detail-form {
+  height: 240px;
+}
+
+.name-row .name-pair {
+  width: 100%;
+}
+
+.text-row textarea {
+  width: 100%;
+  height: 70px;
+}
+
+.btn-row .btn {
+  border-radius: 3px;
+}
+
+.staff-section {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.staff-section .img-col {
+  text-align: right;
+}
+
+.staff-section .img-col img {
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+}
+
+.staff-col h2 {
+  font-size: 1.5em;
+}
+
+.staff-col .text-col .heading {
+  font-size: 1.2em;
+  text-align: left;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.staff-col .text-col .sub-heading {
+  font-size: 0.6em;
+  text-align: left;
+  margin: 0px;
+  font-weight: bold;
+  color: grey;
+}
+
+.staff-col .text-col .inner-text {
+  font-size: 0.7em;
+  text-align: left;
+  font-weight: bold;
+  color: #a29595;
+  margin: 0px;
+}
+
+.staff-col .text-col .contact-detail {
+  font-size: 0.7em;
+  text-align: left;
+  font-weight: bold;
+  color: #000;
+  margin: 0px;
+}
+
+.staff-col .text-col .icon-tray-inner {
+  width: 100px;
+  text-align: left;
+  margin-left: 0px;
+}
+
+.footer .main-row {
+  background-color: #0e103d;
+}
+
+.footer .main-row .col {
+  padding: 40px;
+}
+
+.footer .main-row .directory {
+  text-align: left;
+}
+
+.footer .main-row .directory h2, .bold-text {
+  color: white;
+  font-weight: bold;
+}
+
+.footer .main-row .directory .sub-heading {
+  color: white;
+  font-size: 0.8em;
+  margin: 0px;
+}
+
+.footer .main-row .addition h5, .touch h5 {
+  color: white;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.footer .main-row .addition .sub-heading, .touch .sub-heading {
+  color: white;
+  font-size: 0.8em;
+  margin: 0px;
+}
+
+.footer .main-row .touch .btn {
+  background-color: rgb(95,207,95);
+  border-radius: 5px;
+  border: none;
+}
+
